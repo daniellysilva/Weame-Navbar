@@ -59,7 +59,9 @@
   color: #3872f5;
 }
 
-
+#iconelocal:hover{
+  color: #3872f5;
+}
 
 #letracliente{
   font-weight: 700;
